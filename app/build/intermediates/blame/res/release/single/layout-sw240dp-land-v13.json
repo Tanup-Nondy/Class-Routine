@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\activity_wednesday.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\activity_wednesday.xml"
+    },
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\activity_monday.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\activity_monday.xml"
+    },
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\activity_display.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\activity_display.xml"
+    },
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\activity_create_sunday.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\activity_create_sunday.xml"
+    },
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\activity_show_routine.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\activity_show_routine.xml"
+    },
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\lvlayout.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\lvlayout.xml"
+    },
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\activity_main.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\activity_tuesday.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\activity_tuesday.xml"
+    },
+    {
+        "merged": "G:\\Android bangla\\Android\\Routine\\app\\build\\intermediates\\res\\merged\\release\\layout-sw240dp-land-v13\\activity_thursday.xml",
+        "source": "G:\\Android bangla\\Android\\Routine\\app\\src\\main\\res\\layout-sw240dp-land\\activity_thursday.xml"
+    }
+]

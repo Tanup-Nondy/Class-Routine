@@ -1,0 +1,2 @@
+CHANGED,G:\Class Routine\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\androidlime\routine\Database$override.class
+CHANGED,G:\Class Routine\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
